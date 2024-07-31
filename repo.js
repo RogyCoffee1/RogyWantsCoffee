@@ -6,6 +6,6 @@
         "https://mirrors.thpatch.net/RogyWantsCoffee/"
     ],
     "patches": {
-        "title": "Replaces Reimu Hakurei with Louie Cream (Rogy oc)",
+        "CreamShrineMaiden": "Replaces Reimu Hakurei with Louie Cream (Rogy oc)",
     }
 }
