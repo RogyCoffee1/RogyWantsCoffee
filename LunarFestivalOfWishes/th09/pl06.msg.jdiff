@@ -1,0 +1,916 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Danzar~ Danzar~",
+                "Pero que delicioso aroma hay en estas praderas."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Un tonto zorro atraído por mis flores..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Y si que tiene un aura bstante mala en él.",
+                "¿Te gusta este aroma no es así?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ay, un hombre flor, en frente de mi",
+                "Tu pareces ser el responsable de esto hermoso aroma, no?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Si, yo y el esto de de bestias plantas de aqui. Si tanto te gusta este aroma,",
+                "¡Entonces acercate!, ¡no dudaré en usar esta espada!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "¡Esto fue una trampa!",
+                "No vuelvo a confiar en bestias planta..."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Eh mostrado piedas contigo.",
+                "No quiero que vuelvas a venir a pisar mis flores."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Danza~ Danza~ Una hermosa danza de zorro maldito~",
+                "Me pregunto que puedo encontrar por aquí."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "¡Ay! ¡Pero que es este aura azuleja!",
+                "Que mala vibra me da."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "¿Ah? Con que un zorro, huh.",
+                "Pues dejame decirte que esa danza esta bastante fea."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "¡Ay, ¡Un pequeño pez bastante molesto!",
+                "Yo solo estaba danzando elegantemente por aquí."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Tampoco me gusta tu aura.",
+                "Y esa danza no es nada elegante."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Jamás insultes mi forma de bailar.",
+                "¿esta bien?"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "¡Ahora vete!",
+                "¡No quiero que malas cosas sucedan por aquí!"
+            ]
+        }
+    },
+    "80": {
+        "140_1": {
+            "lines": [
+                "jojojo...",
+                "Un zorro...con un aura que llama mi atención."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Esta villa si que tiene mucho por dar."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Lo puedo sentir...un aura de desgracia con esas bellas danzas.",
+                "Me gusta, me gusta."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "¿Perdón?",
+                "¿Quién anda ahí?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, ya te puedo ver.",
+                "Ay...Tu no pareces ser un humano. Me siento incomodo..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "heh.",
+                "Me llamo la atención tu aura."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Una lástima esa clase de cosas no funcionan conmigo."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Tuve una sensación demasiado incomoda al estar luchando contra esta persona",
+                "Mejor me voy a otro sitio..."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "¿Que crees que podría aver allí?",
+                "Contesta mi llamado, no tengo todo el día."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Danza Danzaaaa~",
+                "Hermoso bosque mágico~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ya puedo ver."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Zorros bailando extraño, si que hay gente",
+                "peculiar en este bosque mágico."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Solo dije que es algo peculiar y extraño.",
+                "Heh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "No digas nada malo de mi danza.",
+                "No dudaré en darte tu merecido."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Es mi danza, de acuerdo, que no sepas apreciarla es tu problema.",
+                "Y puedo danzar más libremente con este traje."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Huh, no hay mucho secreto después de todo."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "Danzaaaaa~ Danzaaaaa~ Danzaaaa~",
+                "Abriré mis ojos para ver donde estoy ahora..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "¡¡Un Zorritooooo!!",
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "¡Que extraño es ver zorro en este bosque!",
+                "¡Meow!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "¡Huh! ¡Un temible León esta volando en frente de mi!",
+                "Y hay un montón de bestias por este sitio!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "¡No temas!",
+                "¡Solo me emociona mucho ver otras bestias! ¡Nyahahaha!"
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Tengo que correr...",
+                "No soy una bestia grande, Aún."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "¡Nyahaha! ¡Ves, no te eh hecho daño!"
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Danzaaaar~ Daaaanzaaaar~",
+                "En la hermosa villa."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ay...demonios."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "¿Donde diablos estaba el mundo de los muertos...?",
+                "Que olvidadiza ando...que enojada estoy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "¿Mundo de los muertos?",
+                "Eso suena aterrador."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Me estas mareando.",
+                "No tengo tiempo que perder con un tonto zorro dando vueltas."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "¿Te eh mareado lo suficiente ahora?"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Parece que los fantasmas",
+                "saldrán de esta niebla."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Esta villa es tan preciosa y emocionante",
+                "la disfruto demasiado."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Vaya danza más pegadiza.",
+                "Si que deben de estar viniendo ciraturas bastante interesantes."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Un zorro que le gusta danzar de forma bastante elegante.",
+                "Me parece averte visto un par de veces en el bosque mágico."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "¿Soy interesante?",
+                "¿Eh encontrado a alguien que porfin disfruta de mis danzas?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Son bonita, pero no es algo que me vaya a quedar ",
+                "A ver por mucho tiempo. Marean mucho."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Cuentamé un poco más.",
+                "¿Que te gusta de mi danza?"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Ya te eh dicho que son bonitas y disfrutables.",
+                "Un 6/10. Ahora seguiré mi camino."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Ah~ el bosque mágico núnca deja de ser agradable para mi.",
+                "Puedo danzar sin que nadie me interrumpa~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Vaya, eso es una danza pegadiza.",
+                "Las criaturas del bosque mágico jamás dejan de sorprenderme."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Eres de esas bestias bailarinas huh.",
+                "Vaya zorrito más interesante."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "¿Gracias? mis danzas son parte de mi forma de hablar.",
+                "Desde que regresaste del otro mundo,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "¡Ay! ¿pero que esta pasando alrededor?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Así es zorrito, este bosque ahora será un bosque fantasmal.",
+                "Todo será así hasta que yo solucione lo de este festival."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "¡Este lugar se esta haciendo aterrador y lleno de fantasmas por ti?",
+                "No dejaré que un gato arruine el bosque mágico con sus cosas de muertos."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Sí, este sitio ae estaba llenando de fantasmas",
+                "Todo por tu culpa. hmmm."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Creo que esto te llamará la atención, pero parece que se esta llevando acabo un festival.",
+                "de bestias y seres mágicos, allá talves puedas hacer tus danzas sin problema alguno."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ya veo, un festival. Gracias.",
+                "Los festivales son espectaculares para estas cosas."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Bueno, incluso si me preguntas."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Laralalala~ Laralalala~",
+                "Danza en el santuario recién encontrado Laralala~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Ahora que lo pienso, ¿podría ser aqui el festival?",
+                "Este sitio se ve lleno de gente."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Huh, el baile de ese zorro es bastante",
+                "Exotico."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "¿Huh, Quién anda ahí?",
+                "¿Alguien disfrutando mi danza?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Bienvenido al santuario de los zorros.",
+                "Mi nombre es Kat Kumotowa. Soy una de las diosas de este sitio."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Ay Ay Ay, ¿Una zorra diosa?",
+                "¡Que bien! aqui hay un festival, ¿no es así?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "¿U-Un festival?",
+                "¿No simplemente hay demasiados visitantes?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Tu...no pareces saber nada."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿Acaso estoy en el sitio equivocado?",
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "¿Puede ser? Aunque hay demasiados turistas hoy aqui.",
+                "Eso es algo bueno...."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ah, eso es correcto.",
+                "Yo."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "En este momento estoy",
+                "recolectando sonidos."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Recolectando sonidos, ¿Eh?",
+                "Llegar a un lugar tranquilo como este, aunque..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Tienes razón.",
+                "Pero tengo suerte."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Creo que podré escuchar el sonido de",
+                "un tengu cayendo por el aire."
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Bien, ¡lo recordé!",
+                "Y tu sonido también."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "¿Qué vas a hacer con los sonidos que reúnas?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "¡Recuerda mucho y crea nuevos sonidos!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Las flores están floreciendo en este momento,",
+                "pero se puede escuchar un débil sonido mezclado dentro, ¿no?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Un sonido débil, sí, el",
+                "sonido del mundo exterior."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Vaya, me han engañado en un ataque,",
+                "así que accidentalmente contraataqué sin pensar."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Mientras más avanzo, más lugares nuevos descubro."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Oh mi...Con que un árbol gigante",
+                "Pero cuanto trabajo hay en este sitio."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "De seguro estoy muy lejos de casa.",
+                "¿Porque no me quedo a descansar un rato aqui?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Ese zorro parece estar emitiendo un aura negativa",
+                "Con sus danzas..."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "¿Enserio?",
+                "¿Lo estoy haciendo?"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Yup Yup"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "¡Ay ay! Pero que extraño ver a un mamifero por este sitio, Heh.",
+                "¿Que tu haces por aqui?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Solo volaba y danzaba a los alrededores.",
+                "Estoy en busca de un festival."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "En busca de un festival.",
+                "De acuerdo, tu forma de vestir y de actuar ya me lo decía."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Pues, dejame decirte que en este sitio no hay ningún festival.",
+                "los fantasmas, ¿O no?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ah Caray,",
+                "¿Me dices que eh venido al sitio equivocado?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Correcto, Zorro Grandote Bailarín.",
+                "Estas en el árbol de los insectos."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Aunque, Aqui ahora mismo se esta llevando a cabo una feria de comida",
+                "de comida."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Eso suena genial, puedo ser un buen atractivo para esta feria entonces."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Kyahahahah."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Deberías irte, tu aura negativa podría empezar a causar unos",
+                "Cuantos estragos en este lugar."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "No vaya a ser que tus aura vaya a afectar nuestro",
+                "Trabajo, heh."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Y dejame decirte que no estaremos contentos de que un zorro semi desnudo",
+                "este haciendo tal cosa."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Porfavor. Simplemente la puedo desactivar",
+                "Puedo quedarme danzando en el lugar sin mi aura."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "¡Tu baile ya es suficiente distracción!",
+                "No puedo dejar que estes en este lugar."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Un espectaculo de danza en el Gigante árbol fue estupendo.",
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Muchas gracias por la oportunidad."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Eres bienvenido en cualquier momento.",
+                "Siempre y cuando no seas una distracción demasiado grande."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Acerca de ese festival...",
+                "Intenta devolverte a las montañas. Eh oído demasiado escandalo por allá."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "No van a estar satisfechos con eso.",
+                "Los girasoles aquí son muy bulliciosos después de todo."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Danza hacia el festival, Laralalala~",
+                "Danza hacia el festival, Laralalala~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Oh, Pero que sitio tan ruidoso",
+                "Cuanta música hay aqui~"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Alguien parece demasiado emocionado por el festival."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "¡Pero cuantos visitantes hemos tenido a comparación de otros años!",
+                "¡Eso es algo que me gusta!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Sin embargo...La energía de este zorro",
+                "Parece ser una energía oscura..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Oh mi...Algunas bestias bailarinas.",
+                "las bestias bailarinas siempre están llenos de energía."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Ah, entonces, ¿Quienes son los que están detrás tuyo?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "¿Bestias?",
+                "Pero si no eh traído amigos conmigo."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "¿Ah?",
+                "Se supone que no debes decir eso~"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Y hasta ahora nos hemos escondido",
+                "tan maravillosamente..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "¿Huh?",
+                "¿Cuanto tiempo llevais vigilandome?"
+            ]
+        },
+        "178_1": {
+            "lines": [
+                "Te estuvimos vigilando desde el principio."
+            ]
+        },
+        "178_2": {
+            "lines": [
+                "Parecía que estabas haciendo algo interesante,",
+                "entonces lo hicimos en secreto"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Aquí estamos, los tres espíritus escandalosos."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Vas a tocar en vivo en",
+                "este cementerio, ¿Verdad?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Qué diablos~"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "¡Podrías haber dicho de inmediato de",
+                "que me estabas persiguiendo desde el principio!"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Íbamos a salir si se ponía peligroso."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Sí, Sí.",
+                "Como ahora mismo."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "¿Ahora mismo?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Las almas aquí son almas humanas del mundo exterior.",
+                "Están usando las flores como su base en este momento."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Ustedes tres nacieron como espíritus.",
+                "Lo que una vez fue su base ya no existe."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "A este ritmo, ustedes tres se descompondrán",
+                "en caos, o simplemente desaparecerán por completo."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Sin embargo, es posible que no pueda juzgarlos",
+                "a todos ustedes. abandonarte es un poco cruel..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "¿Quién eres tú?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Yo soy el que juzga los pecados de los que han muerto,",
+                "sí, el juez del infierno."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Si, ustedes tres son",
+                "poco claras con si mismas."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Si ustedes tres desean continuar actuando de",
+                "aquí en adelante,"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "no tienes más remedio que escuchar mi consejo."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "¿De qué estás hablando?",
+                "Hermana, no necesitas escuchar lo que ella dice."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Sí Sí. Ella dice consejo, ¡Pero parece",
+                "una especie de fraude o religión!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Exactamente."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Los espíritus sin una base son",
+                "extremadamente inestables."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Parece que tus instrumentos musicales son tu base,",
+                "pero eso en realidad es falso."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Tu base fue el humano que te creó.",
+                "Y ese humano ya no está aquí."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Si no deseas desaparecer, lo primero que",
+                "debe hacer es darse cuenta de su razón de ser."
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Veo indecisión en los ataques de tus hermanas.",
+                "En ese caso, la posibilidad todavía está allí."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Este mundo es un mundo de dudas.",
+                "Esa duda probablemente se convierta en una obligación."
+            ]
+        }
+    }
+}
