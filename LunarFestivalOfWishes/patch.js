@@ -4,6 +4,9 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order"
 	],
+	"fonts": {
+		"animeace2_bld.otf": true
+	},
 	"id": "LunarFestivalOfWishes",
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/LunarFestivalOfWishes/"
