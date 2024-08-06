@@ -53,5 +53,4 @@
     "th09/data/pl/pl11/pl11_ct00.png": 2642135849,
     "th09/data/pl/pl11b/pl11b_ct00.png": 444758062,
     "th09/data/pl/pl12/pl12_ct00.png": 2160525592,
-    "th09/data/pl/pl12b/pl12b_ct00.png": 1068357091,
 }
