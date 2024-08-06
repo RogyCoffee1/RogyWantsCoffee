@@ -57,7 +57,7 @@
     "th08_19": "Evening Primrose",
     "th08_20": "Eternal Dream ~ Mystical Maple",
     "th08_21": "Eastern Youkai Beauty",
-    "th09_01": "Flower Reflecting Mound ~ Higan Retour",
+    "th09_01": "Bloody Brass Band",
     "th09_02": "Grandfather's wish",
     "th09_03": "Festiv-al-coholically",
     "th09_04": "Time to Fight! (Bionis Shoulder)",
