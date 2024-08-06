@@ -54,10 +54,4 @@
     "th09/data/pl/pl11b/pl11b_ct00.png": 444758062,
     "th09/data/pl/pl12/pl12_ct00.png": 2160525592,
     "th09/data/pl/pl12b/pl12b_ct00.png": 1068357091,
-    "th09/data/pl/pl13/pl13_ct00.png": 824665515,
-    "th09/data/pl/pl13b/pl13b_ct00.png": 1870913690,
-    "th09/data/pl/pl14/pl14_ct00.png": 146961335,
-    "th09/data/pl/pl14b/pl14b_ct00.png": 4093780472,
-    "th09/data/pl/pl15/pl15_ct00.png": 725901990,
-    "th09/data/pl/pl15b/pl15b_ct00.png": 2022952943
 }
