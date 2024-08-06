@@ -59,8 +59,5 @@
     "th09/data/pl/pl14/pl14_ct00.png": 146961335,
     "th09/data/pl/pl14b/pl14b_ct00.png": 4093780472,
     "th09/data/pl/pl15/pl15_ct00.png": 725901990,
-    "th09/data/pl/pl15b/pl15b_ct00.png": 2022952943,
-    "th09/data/end/staff00a00.png": 4185880476,
-    "th09/data/end/staff00a01.png": 109716942,
-    "th09/data/end/staff00a02.png": 4115857042,
+    "th09/data/pl/pl15b/pl15b_ct00.png": 2022952943
 }
