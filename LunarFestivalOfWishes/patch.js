@@ -5,6 +5,7 @@
 		"nmlgc/western_name_order"
 	],
 	"fonts": {
+		"mangat.ttf": true,
 		"animeace2_bld.otf": true
 	},
 	"id": "LunarFestivalOfWishes",
