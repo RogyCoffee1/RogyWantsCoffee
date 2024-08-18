@@ -1,3 +1,3 @@
 {
-	"font": "animeace2_bld.otf"
+	"font": "animeace2_bld"
 }
