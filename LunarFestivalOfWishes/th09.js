@@ -1,3 +1,4 @@
 {
-	"font": "Cirno"
+    "font": "mangat"
+
 }

@@ -6,8 +6,7 @@
                 "thpatch/lang_en"
 	],
 	"fonts": {
-		"mangat.ttf": true,
-		"animeace2_bld.otf": true
+		"mangat.ttf": true
 	},
 	"id": "LunarFestivalOfWishes",
 	"servers": [
