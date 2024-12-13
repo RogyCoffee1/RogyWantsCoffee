@@ -9,7 +9,7 @@
         "CreamShrineMaiden": "Replaces Reimu Hakurei with Louie Cream (Rogy oc)",
         "KoreanBreakers": "WIP A bunny wants to do justice for korean food",
         "LunarFestivalOfWishes": "It's september and the annual lunar festival of wishes is being the center of attention of youkai (Th09)",
-		"LunarFestivalDLC": "(Th09) Adds Merry Noel and Zara Landmorri.",
+		"LunarFestivalDLC": "(Th09) (For LunarFestivalofWishes) Adds Merry Noel and Zara Landmorri.",
 		"Fumouhou": "replace characters sprites, portraits and menus with their fumo counterpart!! (Also, i know the name sucks)"
   }
 }

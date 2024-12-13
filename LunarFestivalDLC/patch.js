@@ -12,5 +12,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/LunarFestivalDLC"
 	],
-		"title": "(Th09) Adds Merry Noel and Zara Landmorri."
+		"title": "(Th09) (For LunarFestivalofWishes) Adds Merry Noel and Zara Landmorri."
 }
