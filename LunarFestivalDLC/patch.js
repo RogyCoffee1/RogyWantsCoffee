@@ -4,9 +4,6 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
         "thpatch/lunarFestivalOfWishes"
-	],
-	"fonts": {
-		"mangat.ttf": true
 	},
 	"id": "LunarFestivalDLC",
 	"servers": [
