@@ -4,7 +4,7 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
         "thpatch/lunarFestivalOfWishes"
-	},
+	],
 	"id": "LunarFestivalDLC",
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/LunarFestivalDLC"
