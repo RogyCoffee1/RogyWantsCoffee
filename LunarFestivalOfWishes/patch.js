@@ -12,5 +12,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/LunarFestivalOfWishes/"
 	],
-		"title": "It's september and the annual lunar festival of wishes is being the center of attention of youkai (Th09)"
+		"title": "Chronicles Of Half Moon Spooky Battle\n             DEMO Hipnotic Eyes of Dark Dream(th06)\n             Lunar Festival Of Wishes (th09) ",
 }
