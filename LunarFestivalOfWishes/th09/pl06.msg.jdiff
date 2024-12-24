@@ -2,867 +2,914 @@
     "50": {
         "140_0": {
             "lines": [
-                "さあ、ソロ活動の手始めに紅い奴らの所に行く",
-                "わよー！"
+                "Danzar~ Danzar~",
+                "Pero que delicioso aroma hay en estas praderas."
             ]
         },
         "140_1": {
             "lines": [
-                "なんだなんだ、"
+                "Un tonto zorro atraído por mis flores..."
             ]
         },
         "170_0": {
             "lines": [
-                "朝から騒々しいね。"
+                "Y si que tiene un aura bstante mala en él.",
+                "¿Te gusta este aroma no es así?"
             ]
         },
         "171_0": {
             "lines": [
-                "まだ演奏を始めてないけどー"
+                "Ay, un hombre flor, en frente de mi",
+                "Tu pareces ser el responsable de esto hermoso aroma, no?"
             ]
         },
         "172_0": {
             "lines": [
-                "居るだけで騒々しいのに、",
-                "これから演奏しようっての！"
+                "Si, yo y el esto de de bestias plantas de aqui. Si tanto te gusta este aroma,",
+                "¡Entonces acercate!, ¡no dudaré en usar esta espada!"
             ]
         }
     },
     "51": {
         "50_0": {
             "lines": [
-                "妖精相手に演奏したって無駄ね。"
+                "¡Esto fue una trampa!",
+                "No vuelvo a confiar en bestias planta..."
             ]
         }
     },
     "52": {
         "50_0": {
             "lines": [
-                "朝から騒々しいのは妖怪か婆さんくらいだよ。"
+                "Eh mostrado piedas contigo.",
+                "No quiero que vuelvas a venir a pisar mis flores."
             ]
         }
     },
     "70": {
         "140_0": {
             "lines": [
-                "この辺は私の演奏を聴かせる相手が",
-                "居ないわねぇ。"
+                "Danza~ Danza~ Una hermosa danza de zorro maldito~",
+                "Me pregunto que puedo encontrar por aquí."
             ]
         },
         "140_1": {
             "lines": [
-                "あーもう！"
+                "¡Ay! ¡Pero que es este aura azuleja!",
+                "Que mala vibra me da."
             ]
         },
         "170_0": {
             "lines": [
-                "私のテリトリーで何やら不穏な音を出している",
-                "のは誰？"
+                "¿Ah? Con que un zorro, huh.",
+                "Pues dejame decirte que esa danza esta bastante fea."
             ]
         },
         "171_0": {
             "lines": [
-                "わたしわたし！",
-                "あなたは小鳥！"
+                "¡Ay, ¡Un pequeño pez bastante molesto!",
+                "Yo solo estaba danzando elegantemente por aquí."
             ]
         },
         "172_0": {
             "lines": [
-                "そんな雑音じゃあ、歌う気にならないなぁ。"
+                "Tampoco me gusta tu aura.",
+                "Y esa danza no es nada elegante."
             ]
         }
     },
     "71": {
         "50_0": {
             "lines": [
-                "あなたは歌う。私は手を使わずに演奏する。",
-                "体力戦になれば私の方が強いでしょ？"
+                "Jamás insultes mi forma de bailar.",
+                "¿esta bien?"
             ]
         }
     },
     "72": {
         "50_0": {
             "lines": [
-                "やっと静かになった。",
-                "これで思う存分歌えるわ～！"
+                "¡Ahora vete!",
+                "¡No quiero que malas cosas sucedan por aquí!"
             ]
         }
     },
     "80": {
-        "140_0": {
-            "lines": [
-                "この辺は迷いやすいなぁ。"
-            ]
-        },
         "140_1": {
             "lines": [
-                "あら、"
+                "jojojo...",
+                "Un zorro...con un aura que llama mi atención."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Esta villa si que tiene mucho por dar."
             ]
         },
         "170_0": {
             "lines": [
-                "また迷子が迷い込んできたわー。"
+                "Lo puedo sentir...un aura de desgracia con esas bellas danzas.",
+                "Me gusta, me gusta."
             ]
         },
         "171_0": {
             "lines": [
-                "むむ、竹林には色んな奴が居るのね。"
+                "¿Perdón?",
+                "¿Quién anda ahí?"
             ]
         },
         "172_0": {
             "lines": [
-                "確かに道に迷ってるけど、雲の上は常に頭上に",
-                "あるので大丈夫。"
+                "Oh, ya te puedo ver.",
+                "Ay...Tu no pareces ser un humano. Me siento incomodo..."
             ]
         },
         "173_0": {
             "lines": [
-                "飛べるもんなら飛んでみても良いよ。"
+                "heh.",
+                "Me llamo la atención tu aura."
             ]
         },
         "174_0": {
             "lines": [
-                "竹林の霧の中、上に飛ぶとどんな化け物が",
-                "いるんでしょうねぇ。"
+                "Una lástima esa clase de cosas no funcionan conmigo."
             ]
         }
     },
     "81": {
         "50_0": {
             "lines": [
-                "うーん。",
-                "上には逃げない方が良いのかな？"
+                "Tuve una sensación demasiado incomoda al estar luchando contra esta persona",
+                "Mejor me voy a otro sitio..."
             ]
         }
     },
     "82": {
         "50_0": {
             "lines": [
-                "何が居るんでしょうねぇ。",
-                "天狗かな？　それとも……"
+                "¿Que crees que podría aver allí?",
+                "Contesta mi llamado, no tengo todo el día."
             ]
         }
     },
     "40": {
         "140_0": {
             "lines": [
-                "地上は騒がしいわー",
-                "たまに戻ってこないと疲れちゃう。"
+                "Danza Danzaaaa~",
+                "Hermoso bosque mágico~"
             ]
         },
         "140_1": {
             "lines": [
-                "あら、"
+                "Ya puedo ver."
             ]
         },
         "170_0": {
             "lines": [
-                "こんな空の上にも何か居るのね。"
-            ]
-        },
-        "171_0": {
-            "lines": [
-                "あーもう。",
-                "もう少し騒がしくなりそう。"
+                "Zorros bailando extraño, si que hay gente",
+                "peculiar en este bosque mágico."
             ]
         },
         "172_0": {
             "lines": [
-                "何か秘密を持っていそうな霊ね。"
+                "Solo dije que es algo peculiar y extraño.",
+                "Heh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "No digas nada malo de mi danza.",
+                "No dudaré en darte tu merecido."
             ]
         }
     },
     "41": {
         "50_0": {
             "lines": [
-                "空にいても誰か来るんじゃ、",
-                "中々落ち着けないなぁ。"
+                "Es mi danza, de acuerdo, que no sepas apreciarla es tu problema.",
+                "Y puedo danzar más libremente con este traje."
             ]
         }
     },
     "42": {
         "50_0": {
             "lines": [
-                "何だ、大した秘密は持ってなさそうね。"
+                "Huh, no hay mucho secreto después de todo."
             ]
         }
     },
     "20": {
         "140_0": {
             "lines": [
-                "地上は花景色というより妖精景色、",
-                "いや幽霊景色ねー。"
+                "Danzaaaaa~ Danzaaaaa~ Danzaaaa~",
+                "Abriré mis ojos para ver donde estoy ahora..."
             ]
         },
         "140_1": {
             "lines": [
-                "どうしたのかしら、"
+                "¡¡Un Zorritooooo!!",
             ]
         },
         "170_0": {
             "lines": [
-                "こんな所に一人ではぐれて。",
-                "今日は三人一緒じゃないの？"
+                "¡Que extraño es ver zorro en este bosque!",
+                "¡Meow!"
             ]
         },
         "171_0": {
             "lines": [
-                "別に迷ってる訳じゃないよ。"
+                "¡Huh! ¡Un temible León esta volando en frente de mi!",
+                "Y hay un montón de bestias por este sitio!"
             ]
         },
         "172_0": {
             "lines": [
-                "お空への帰り道は真上よ。"
+                "¡No temas!",
+                "¡Solo me emociona mucho ver otras bestias! ¡Nyahahaha!"
             ]
         }
     },
     "21": {
         "50_0": {
             "lines": [
-                "空への帰り道くらい判るわよ。"
+                "Tengo que correr...",
+                "No soy una bestia grande, Aún."
             ]
         }
     },
     "22": {
         "50_0": {
             "lines": [
-                "この騒ぎに、変な霊もおりてきたわねぇ。"
+                "¡Nyahaha! ¡Ves, no te eh hecho daño!"
             ]
         }
     },
     "0": {
         "140_0": {
             "lines": [
-                "この辺は迷いやすいなぁ。"
+                "Danzaaaar~ Daaaanzaaaar~",
+                "En la hermosa villa."
             ]
         },
         "140_1": {
             "lines": [
-                "あ、いつも三人なのに今日は一人？"
+                "Ay...demonios."
             ]
         },
         "170_0": {
             "lines": [
-                "迷子ね。"
+                "¿Donde diablos estaba el mundo de los muertos...?",
+                "Que olvidadiza ando...que enojada estoy."
             ]
         },
         "171_0": {
             "lines": [
-                "違うって、今日は一人で正しいの。",
-                "ちょっと道に迷っただけよ。"
+                "¿Mundo de los muertos?",
+                "Eso suena aterrador."
             ]
         },
         "172_0": {
             "lines": [
-                "だから、迷子でしょ？"
-            ]
-        }
-    },
-    "1": {
-        "50_0": {
-            "lines": [
-                "何だか幽霊が出そうなくらい、",
-                "霧が出ているわ。"
+                "Me estas mareando.",
+                "No tengo tiempo que perder con un tonto zorro dando vueltas."
             ]
         }
     },
     "2": {
         "50_0": {
             "lines": [
-                "一人でも十分騒々しいわ。"
+                "¿Te eh mareado lo suficiente ahora?"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Parece que los fantasmas",
+                "saldrán de esta niebla."
             ]
         }
     },
     "10": {
         "140_0": {
             "lines": [
-                "この辺は迷いやすいなぁ。"
+                "Esta villa es tan preciosa y emocionante",
+                "la disfruto demasiado."
             ]
         },
         "140_1": {
             "lines": [
-                "あ、丁度良かったぜ。"
+                "Vaya danza más pegadiza.",
+                "Si que deben de estar viniendo ciraturas bastante interesantes."
             ]
         },
         "170_0": {
             "lines": [
-                "永遠亭ってこの辺じゃなかったか？"
+                "Un zorro que le gusta danzar de forma bastante elegante.",
+                "Me parece averte visto un par de veces en el bosque mágico."
             ]
         },
         "171_0": {
             "lines": [
-                "私に道訊いてるの？",
-                "ちなみに私は迷い中。"
+                "¿Soy interesante?",
+                "¿Eh encontrado a alguien que porfin disfruta de mis danzas?"
             ]
         },
         "172_0": {
             "lines": [
-                "そうか、攻撃しないと教えられないか。"
+                "Son bonita, pero no es algo que me vaya a quedar ",
+                "A ver por mucho tiempo. Marean mucho."
             ]
         }
     },
     "11": {
         "50_0": {
             "lines": [
-                "こんなもん、飛んでいればいつか辿り着くよ。"
+                "Cuentamé un poco más.",
+                "¿Que te gusta de mi danza?"
             ]
         }
     },
     "12": {
         "50_0": {
             "lines": [
-                "ああ、思い出したぜ。",
-                "私は永遠亭から帰っている途中だったな。"
+                "Ya te eh dicho que son bonitas y disfrutables.",
+                "Un 6/10. Ahora seguiré mi camino."
             ]
         }
     },
     "30": {
         "140_0": {
             "lines": [
-                "地上は思ったより混乱していた、と。"
+                "Ah~ el bosque mágico núnca deja de ser agradable para mi.",
+                "Puedo danzar sin que nadie me interrumpa~"
             ]
         },
         "140_1": {
             "lines": [
-                "あれ？",
-                "今日は一人？"
+                "Vaya, eso es una danza pegadiza.",
+                "Las criaturas del bosque mágico jamás dejan de sorprenderme."
             ]
         },
         "170_0": {
             "lines": [
-                "って、今日は演奏を頼んでいない気がするけど"
+                "Eres de esas bestias bailarinas huh.",
+                "Vaya zorrito más interesante."
             ]
         },
         "171_0": {
             "lines": [
-                "あれ？",
-                "貴方が地上から戻ってきたって事は。"
+                "¿Gracias? mis danzas son parte de mi forma de hablar.",
+                "Desde que regresaste del otro mundo,"
             ]
         },
         "172_0": {
             "lines": [
-                "なんか、地上の花の様子を見てきたとか。"
+                "¡Ay! ¿pero que esta pasando alrededor?"
             ]
         },
         "173_0": {
             "lines": [
-                "そうだけど、何よ。"
+                "Así es zorrito, este bosque ahora será un bosque fantasmal.",
+                "Todo será así hasta que yo solucione lo de este festival."
             ]
         },
         "174_0": {
             "lines": [
-                "何か面白い音ネタを聞かせて欲しいわね。"
+                "¡Este lugar se esta haciendo aterrador y lleno de fantasmas por ti?",
+                "No dejaré que un gato arruine el bosque mágico con sus cosas de muertos."
             ]
         }
     },
     "31": {
         "50_0": {
             "lines": [
-                "そう、やっぱり幽霊が多いわよねぇ。"
+                "Sí, este sitio ae estaba llenando de fantasmas",
+                "Todo por tu culpa. hmmm."
             ]
         },
         "51_0": {
             "lines": [
-                "もう一人で音ネタを探すのも飽きてたんだけど"
+                "Creo que esto te llamará la atención, pero parece que se esta llevando acabo un festival.",
+                "de bestias y seres mágicos, allá talves puedas hacer tus danzas sin problema alguno."
             ]
         },
         "52_0": {
             "lines": [
-                "こんな事たまにしかないし、",
-                "もうちょっと色々探してみようっと。"
+                "Ya veo, un festival. Gracias.",
+                "Los festivales son espectaculares para estas cosas."
             ]
         }
     },
     "32": {
         "50_0": {
             "lines": [
-                "音ネタ言われてもね。"
+                "Bueno, incluso si me preguntas."
             ]
         }
     },
     "100": {
         "140_0": {
             "lines": [
-                "わーすっごい静か。"
+                "Laralalala~ Laralalala~",
+                "Danza en el santuario recién encontrado Laralala~"
             ]
         },
         "141_0": {
             "lines": [
-                "こんな池があったんだー"
+                "Ahora que lo pienso, ¿podría ser aqui el festival?",
+                "Este sitio se ve lleno de gente."
             ]
         },
         "141_1": {
             "lines": [
-                "珍しいわね。",
-                "こんな所でライブでもするのでしょうか？"
+                "Huh, el baile de ese zorro es bastante",
+                "Exotico."
             ]
         },
         "142_0": {
             "lines": [
-                "誰？"
+                "¿Huh, Quién anda ahí?",
+                "¿Alguien disfrutando mi danza?"
             ]
         },
         "172_0": {
             "lines": [
-                "でも、ここは静かなのが良いの。",
-                "貴方みたいに騒がしいのが来るとちょっとね。"
+                "Bienvenido al santuario de los zorros.",
+                "Mi nombre es Kat Kumotowa. Soy una de las diosas de este sitio."
             ]
         },
         "173_0": {
             "lines": [
-                "何だ天狗かー",
-                "別にライブをするために来たんじゃないよ。"
+                "Ay Ay Ay, ¿Una zorra diosa?",
+                "¡Que bien! aqui hay un festival, ¿no es así?"
             ]
         },
         "174_0": {
             "lines": [
-                "ではお忍びで休憩ですか？",
-                "ネタになりますか？"
+                "¿U-Un festival?",
+                "¿No simplemente hay demasiados visitantes?"
             ]
         },
         "175_0": {
             "lines": [
-                "何なのよそれは。"
+                "Tu...no pareces saber nada."
             ]
         },
         "176_0": {
             "lines": [
-                "私達は別に天狗の新聞に載るために活動して",
-                "いるんじゃないからね。"
+                "¿Acaso estoy en el sitio equivocado?",
             ]
         },
         "177_0": {
             "lines": [
-                "私達？",
-                "貴方は今一人じゃないですか？"
+                "¿Puede ser? Aunque hay demasiados turistas hoy aqui.",
+                "Eso es algo bueno...."
             ]
         },
         "178_0": {
             "lines": [
-                "ああそうね。",
-                "私ね。"
+                "Ah, eso es correcto.",
+                "Yo."
             ]
         },
         "179_0": {
             "lines": [
-                "今は私一人で音集めしていた所だった。"
+                "En este momento estoy",
+                "recolectando sonidos."
             ]
         },
         "180_0": {
             "lines": [
-                "音集めですか、こんな静かな所に来ても……"
+                "Recolectando sonidos, ¿Eh?",
+                "Llegar a un lugar tranquilo como este, aunque..."
             ]
         },
         "181_0": {
             "lines": [
-                "確かにねぇ。",
-                "でも、ラッキーだわ。"
+                "Tienes razón.",
+                "Pero tengo suerte."
             ]
         },
         "182_0": {
             "lines": [
-                "天狗の風切り音が聞けそうだもん。"
+                "Creo que podré escuchar el sonido de",
+                "un tengu cayendo por el aire."
             ]
         }
     },
     "101": {
         "50_0": {
             "lines": [
-                "よし覚えたぞ！",
-                "貴方の音も。"
+                "Bien, ¡lo recordé!",
+                "Y tu sonido también."
             ]
         },
         "51_0": {
             "lines": [
-                "音を集めてどうするのでしょう？"
+                "¿Qué vas a hacer con los sonidos que reúnas?"
             ]
         },
         "52_0": {
             "lines": [
-                "色々覚えて新しい音を創るのよ！"
+                "¡Recuerda mucho y crea nuevos sonidos!"
             ]
         },
         "53_0": {
             "lines": [
-                "今、花が咲いているのに混じって、幽かな音も",
-                "聞こえるでしょう？"
+                "Las flores están floreciendo en este momento,",
+                "pero se puede escuchar un débil sonido mezclado dentro, ¿no?"
             ]
         },
         "54_0": {
             "lines": [
-                "幽かな音、ええ、外の世界の音ですね。"
+                "Un sonido débil, sí, el",
+                "sonido del mundo exterior."
             ]
         }
     },
     "102": {
         "50_0": {
             "lines": [
-                "突然攻撃を仕掛けられたから、思わず",
-                "反撃してしまいました。"
+                "Vaya, me han engañado en un ataque,",
+                "así que accidentalmente contraataqué sin pensar."
             ]
         }
     },
     "90": {
         "140_0": {
             "lines": [
-                "ここも凄いわ～"
+                "Mientras más avanzo, más lugares nuevos descubro."
             ]
         },
         "141_0": {
             "lines": [
-                "一面の向日葵、幽霊が何処よりも騒がしい。"
+                "Oh mi...Con que un árbol gigante",
+                "Pero cuanto trabajo hay en este sitio."
             ]
         },
         "142_0": {
             "lines": [
-                "いい音が集められそうね～"
+                "De seguro estoy muy lejos de casa.",
+                "¿Porque no me quedo a descansar un rato aqui?"
             ]
         },
         "142_1": {
             "lines": [
-                "これはまた騒がしい霊だこと。"
+                "Ese zorro parece estar emitiendo un aura negativa",
+                "Con sus danzas..."
             ]
         },
         "143_0": {
             "lines": [
-                "また誰か居た？"
+                "¿Enserio?",
+                "¿Lo estoy haciendo?"
             ]
         },
         "173_0": {
             "lines": [
-                "居たわ。"
+                "Yup Yup"
             ]
         },
         "174_0": {
             "lines": [
-                "貴方はここに居る外の霊なんかより",
-                "ずっと騒がしい。"
+                "¡Ay ay! Pero que extraño ver a un mamifero por este sitio, Heh.",
+                "¿Que tu haces por aqui?"
             ]
         },
         "175_0": {
             "lines": [
-                "それが仕事だもの。",
-                "今日は一人だから余り騒がしくはしないけど。"
+                "Solo volaba y danzaba a los alrededores.",
+                "Estoy en busca de un festival."
             ]
         },
         "176_0": {
             "lines": [
-                "貴方の騒がしさは幻想の騒がしさ。",
-                "既に死んだ音。"
+                "En busca de un festival.",
+                "De acuerdo, tu forma de vestir y de actuar ya me lo decía."
             ]
         },
         "177_0": {
             "lines": [
-                "貴方にはここの幽霊達が何を喋っているのか",
-                "聞こえるのね。"
+                "Pues, dejame decirte que en este sitio no hay ningún festival.",
+                "los fantasmas, ¿O no?"
             ]
         },
         "178_0": {
             "lines": [
-                "うーん。",
-                "何を言っているのかは判らないなー……"
+                "Ah Caray,",
+                "¿Me dices que eh venido al sitio equivocado?"
             ]
         },
         "179_0": {
             "lines": [
-                "ほら、向日葵が貴方を注目し始めたわ。"
+                "Correcto, Zorro Grandote Bailarín.",
+                "Estas en el árbol de los insectos."
             ]
         },
         "180_0": {
             "lines": [
-                "向日葵に取り憑いた霊も、やっと理解者が",
-                "現れたと思ったのね。"
+                "Aunque, Aqui ahora mismo se esta llevando a cabo una feria de comida",
+                "de comida."
             ]
         },
         "181_0": {
             "lines": [
-                "ちょっとちょっと、",
-                "何よこの向日葵！"
+                "Eso suena genial, puedo ser un buen atractivo para esta feria entonces."
             ]
         },
         "182_0": {
             "lines": [
-                "何で私の方を向くのよー！"
+                "Kyahahahah."
             ]
         },
         "183_0": {
             "lines": [
-                "それは、貴方も同じ霊だから。"
+                "Deberías irte, tu aura negativa podría empezar a causar unos",
+                "Cuantos estragos en este lugar."
             ]
         },
         "184_0": {
             "lines": [
-                "ここに限らず、今の花は全て霊の仕業だから。"
+                "No vaya a ser que tus aura vaya a afectar nuestro",
+                "Trabajo, heh."
             ]
         },
         "185_0": {
             "lines": [
-                "今年の霊は騒々しいわね。",
-                "もしかしたら貴方達よりも騒々しいのかも。"
+                "Y dejame decirte que no estaremos contentos de que un zorro semi desnudo",
+                "este haciendo tal cosa."
             ]
         },
         "186_0": {
             "lines": [
-                "達？",
-                "今日は一人なんだけど……"
+                "Porfavor. Simplemente la puedo desactivar",
+                "Puedo quedarme danzando en el lugar sin mi aura."
             ]
         },
         "187_0": {
             "lines": [
-                "さあ、私の可愛い向日葵達。",
-                "騒霊ライブの始まりよ！"
+                "¡Tu baile ya es suficiente distracción!",
+                "No puedo dejar que estes en este lugar."
             ]
         }
     },
     "91": {
         "50_0": {
             "lines": [
-                "向日葵畑で騒霊ライブかー"
+                "Un espectaculo de danza en el Gigante árbol fue estupendo.",
             ]
         },
         "51_0": {
             "lines": [
-                "それは楽しそうねぇ。"
+                "Muchas gracias por la oportunidad."
             ]
         },
         "52_0": {
             "lines": [
-                "いつでもいらっしゃい。"
+                "Eres bienvenido en cualquier momento.",
+                "Siempre y cuando no seas una distracción demasiado grande."
             ]
         },
         "53_0": {
             "lines": [
-                "ただ、向日葵に霊が宿っているのは、",
-                "６０年前と今と６０年後だけだと思うけど。"
+                "Acerca de ese festival...",
+                "Intenta devolverte a las montañas. Eh oído demasiado escandalo por allá."
             ]
         }
     },
     "92": {
         "50_0": {
             "lines": [
-                "まだまだ、そんなんじゃみんな満足しないわよ",
-                "ここの向日葵の霊は騒々しいんだから。"
+                "No van a estar satisfechos con eso.",
+                "Los girasoles aquí son muy bulliciosos después de todo."
             ]
         }
     },
     "130": {
         "140_0": {
             "lines": [
-                "そういえば、桜の音はまだ聴いていなかったわ"
+                "Danza hacia el festival, Laralalala~",
+                "Danza hacia el festival, Laralalala~"
             ]
         },
         "141_0": {
             "lines": [
-                "花の異常さに惑わされて、春の花をすっかり",
-                "忘れてたわー"
+                "Oh, Pero que sitio tan ruidoso",
+                "Cuanta música hay aqui~"
             ]
         },
         "141_1": {
             "lines": [
-                "彼岸桜に彼岸花。"
+                "Alguien parece demasiado emocionado por el festival."
             ]
         },
         "142_0": {
             "lines": [
-                "いつもは静かな無縁の塚に",
-                "同時に咲かない花が咲く。"
+                "¡Pero cuantos visitantes hemos tenido a comparación de otros años!",
+                "¡Eso es algo que me gusta!"
             ]
         },
         "143_0": {
             "lines": [
-                "彼岸花は死の悼みを訴えるでしょう。",
-                "彼岸桜は断罪の曲を奏でるでしょう。"
+                "Sin embargo...La energía de este zorro",
+                "Parece ser una energía oscura..."
             ]
         },
         "173_0": {
             "lines": [
-                "こんな所に珍しい程、はっきりした騒霊達が",
-                "現れたものね。"
-            ]
-        },
-        "174_0": {
-            "lines": [
-                "また、達ってー",
-                "今日は一人だってば。"
+                "Oh mi...Algunas bestias bailarinas.",
+                "las bestias bailarinas siempre están llenos de energía."
             ]
         },
         "175_0": {
             "lines": [
-                "あら、じゃあ後ろの二人は何なのかしら？"
+                "Ah, entonces, ¿Quienes son los que están detrás tuyo?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "¿Bestias?",
+                "Pero si no eh traído amigos conmigo."
             ]
         },
         "176_0": {
             "lines": [
-                "あ？",
-                "言っちゃ駄目じゃないの～"
+                "¿Ah?",
+                "Se supone que no debes decir eso~"
             ]
         },
         "177_0": {
             "lines": [
-                "折角、隠れてついてきてたのに……"
+                "Y hasta ahora nos hemos escondido",
+                "tan maravillosamente..."
             ]
         },
         "178_0": {
             "lines": [
-                "って！？",
-                "姉さん達何時の間に後ろに！？"
+                "¿Huh?",
+                "¿Cuanto tiempo llevais vigilandome?"
             ]
         },
         "178_1": {
             "lines": [
-                "最初からずっと見ていたわ。"
+                "Te estuvimos vigilando desde el principio."
             ]
         },
         "178_2": {
             "lines": [
-                "面白そうな事してたから内緒でね。"
+                "Parecía que estabas haciendo algo interesante,",
+                "entonces lo hicimos en secreto"
             ]
         },
         "179_0": {
             "lines": [
-                "ほら、かしましい三人の霊達。"
+                "Aquí estamos, los tres espíritus escandalosos."
             ]
         },
         "180_0": {
             "lines": [
-                "こんな墓場でもライブを行うのですね。"
+                "Vas a tocar en vivo en",
+                "este cementerio, ¿Verdad?"
             ]
         },
         "181_0": {
             "lines": [
-                "何よー"
+                "Qué diablos~"
             ]
         },
         "182_0": {
             "lines": [
-                "付いてきてるんなら最初から",
-                "言ってくれれば良いのに！"
+                "¡Podrías haber dicho de inmediato de",
+                "que me estabas persiguiendo desde el principio!"
             ]
         },
         "183_0": {
             "lines": [
-                "危なくなったら出るつもりだったわよ。"
+                "Íbamos a salir si se ponía peligroso."
             ]
         },
         "184_0": {
             "lines": [
-                "そうそう。",
-                "今みたいにね。"
+                "Sí, Sí.",
+                "Como ahora mismo."
             ]
         },
         "185_0": {
             "lines": [
-                "今みたいに？"
+                "¿Ahora mismo?"
             ]
         },
         "186_0": {
             "lines": [
-                "ここの霊は外の世界の人間の霊。",
-                "今は花を拠り所とする。"
+                "Las almas aquí son almas humanas del mundo exterior.",
+                "Están usando las flores como su base en este momento."
             ]
         },
         "187_0": {
             "lines": [
-                "貴方達は生まれつきの霊。",
-                "拠り所だった物は既に無い。"
-            ]
-        },
-        "188_0": {
-            "lines": [
-                "そう、貴方達は少し自己が曖昧過ぎる。"
+                "Ustedes tres nacieron como espíritus.",
+                "Lo que una vez fue su base ya no existe."
             ]
         },
         "189_0": {
             "lines": [
-                "……"
+                "..."
             ]
         },
         "190_0": {
             "lines": [
-                "このままでは、貴方達は暴走するか、",
-                "消えてしまうかのどちらかでしょう。"
+                "A este ritmo, ustedes tres se descompondrán",
+                "en caos, o simplemente desaparecerán por completo."
             ]
         },
         "191_0": {
             "lines": [
-                "貴方達を裁くことは無いかもしれないけど、",
-                "見捨てるのも可哀想……"
+                "Sin embargo, es posible que no pueda juzgarlos",
+                "a todos ustedes. abandonarte es un poco cruel..."
             ]
         },
         "192_0": {
             "lines": [
-                "貴方は一体？"
+                "¿Quién eres tú?"
             ]
         },
         "193_0": {
             "lines": [
-                "私は死んだ者の罪を裁く者、",
-                "そう地獄の裁判長。"
+                "Yo soy el que juzga los pecados de los que han muerto,",
+                "sí, el juez del infierno."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Si, ustedes tres son",
+                "poco claras con si mismas."
             ]
         },
         "194_0": {
             "lines": [
-                "貴方達はこれからももっと演奏を楽しみ",
-                "たいのであれば、"
+                "Si ustedes tres desean continuar actuando de",
+                "aquí en adelante,"
             ]
         },
         "195_0": {
             "lines": [
-                "私の忠告を聞くしかないのですよ。"
+                "no tienes más remedio que escuchar mi consejo."
             ]
         },
         "196_0": {
             "lines": [
-                "何を言ってるのかしら。",
-                "姉さん、こんな奴の事聞く必要もないよ。"
+                "¿De qué estás hablando?",
+                "Hermana, no necesitas escuchar lo que ella dice."
             ]
         },
         "197_0": {
             "lines": [
-                "そうそう。",
-                "忠告とか言って、何かの詐欺か宗教だからね！"
+                "Sí Sí. Ella dice consejo, ¡Pero parece",
+                "una especie de fraude o religión!"
             ]
         },
         "198_0": {
             "lines": [
-                "そう、ね。"
+                "Exactamente."
             ]
         },
         "199_0": {
             "lines": [
-                "拠り所のない霊は非常に不安定です。"
+                "Los espíritus sin una base son",
+                "extremadamente inestables."
             ]
         },
         "200_0": {
             "lines": [
-                "貴方達は楽器を拠り所にしているようで",
-                "実は違う。"
+                "Parece que tus instrumentos musicales son tu base,",
+                "pero eso en realidad es falso."
             ]
         },
         "201_0": {
             "lines": [
-                "貴方達の拠り所は貴方達を生んだ人間。",
-                "そして、その人間はもう居ない。"
+                "Tu base fue el humano que te creó.",
+                "Y ese humano ya no está aquí."
             ]
         },
         "202_0": {
             "lines": [
-                "消えたくなければ、",
-                "まずは、自分の存在理由を考え直すのです！"
+                "Si no deseas desaparecer, lo primero que",
+                "debe hacer es darse cuenta de su razón de ser."
             ]
         }
     },
     "132": {
         "50_0": {
             "lines": [
-                "後ろの二人は攻撃に迷いがあるようね。",
-                "ならば、少しは可能性があるという物です。"
+                "Veo indecisión en los ataques de tus hermanas.",
+                "En ese caso, la posibilidad todavía está allí."
             ]
         },
         "51_0": {
             "lines": [
-                "この世は迷いの世。",
-                "その迷いが繋ぎ止めることになるでしょう。"
+                "Este mundo es un mundo de dudas.",
+                "Esa duda probablemente se convierta en una obligación."
             ]
         }
     }
