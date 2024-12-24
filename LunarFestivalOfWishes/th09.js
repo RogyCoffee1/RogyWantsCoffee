@@ -1,4 +1,4 @@
 {
-    "font": "mangat"
+    "font": "cirno"
 
 }
