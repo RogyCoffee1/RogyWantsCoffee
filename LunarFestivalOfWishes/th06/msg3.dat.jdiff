@@ -1,0 +1,214 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Damn you! Time to call the cursed dolls"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Better run away you little brat!",
+                "where are you going!?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "The ol' Lady came back for more"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Excuse me! Mistress Ruby",
+                "Most evil overlord of all time"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "Chica China",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Podrás seguirme todo lo que quieras,",
+                "pero no encontrarás nada más allá de esta puerta."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "¿Entonces me dices que huiste hacia la “nada”?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Bueno, si estuviera huyendo, no creo",
+                "que fuera muy exigente con hacia dónde..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oye, ¿y tú quién eres?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Eh, sólo soy una persona normal..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "¿Que acaso no me atacaste antes?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Sí, pero tú atacaste primero."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "¡Tú eres la que no es normal!"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Yo sólo soy una sacerdotisa común y corriente."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Es bueno saberlo.",
+                "Si mal no recuerdo..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "... Se dice que las sacerdotisas son del tipo de ",
+                "humanos cuyo consumo está permitido..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "¡No difundas esos rumores así como así!"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Ahora muéstrame el camino."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ya no hay más.",
+                "Esta es solo la demo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh, bueno. Es una lástima."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "(¡Lo siento mucho, mi señora!)"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Damn it! I better call the doll formation!",
+                "You're down!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "An entire formation all by yourself?",
+                "You're just a brat"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Gracias por lo de antes."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Hace tiempo que no te veía."
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "Joven China",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oye, ¿desde cuándo nos",
+                "conocemos?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Pues, hace un momento, ¿no?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Hmm, me encontré con un bicho raro entonces."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Como sea, estás en mi camino.",
+                "¿Estás montando guardia aquí o algo?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Sí, y por eso estoy en tu camino."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "¿Entonces eres la guardia?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Soy una persona normal que resulta ser la guardia."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "En resumen, eres una persona normal.",
+                "Así que puedo castigarte."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "¿Qué clase de educación recibiste?"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Tal como pensaba, no es mi estilo ",
+                "luchar contra la gente normal."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Esto tiene que ser una broma..."
+            ]
+        }
+    }
+}
