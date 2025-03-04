@@ -9,7 +9,7 @@
         "CreamShrineMaiden": "Replaces Reimu Hakurei with Louie Cream (Rogy oc)",
         "KoreanBreakers": "WIP A bunny wants to do justice for korean food",
         "LunarFestivalOfWishes": "Chronicles Of Half Moon Spooky Battles\n             DEMO Hipnotic Eyes of Dark Dream(th06)\n             Lunar Festival Of Wishes (th09) ",
-		"LunarFestivalDLC": "(Th09) (For LunarFestivalofWishes) Adds Merry Noel and Zara Landmorri.",
-		"Fumouhou": "replace characters sprites, portraits and menus with their fumo counterpart!! (Also, i know the name sucks)"
+	"LunarFestivalDLC": "(Th09) (For LunarFestivalofWishes) Adds Merry Noel and Zara Landmorri.",
+	"Fumouhou": "replace characters sprites, portraits and menus with their fumo counterpart!! (Also, i know the name sucks)"
   }
 }
