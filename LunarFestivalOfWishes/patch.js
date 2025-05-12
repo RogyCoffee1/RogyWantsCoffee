@@ -12,5 +12,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/LunarFestivalOfWishes/"
 	],
-		"title": "Chronicles Of Half Moon Spooky Battle\n             DEMO Hipnotic Eyes of Dark Dream(th06)\n             Lunar Festival Of Wishes (th09) ",
+		"title": "External Beast Festival (TW: suggestive designs) (th09)",
 }
