@@ -6,5 +6,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/Fumo/"
 	],
-	"title": "(Th16) A silly patch that replaces some characters with their fumo counterpart..."
+	"title": "(Th16) A silly Patch that replaces some characters With their fumo counterpart"
 }
