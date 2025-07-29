@@ -6,6 +6,6 @@
         "https://mirrors.thpatch.net/RogyWantsCoffee/"
     ],
     "patches": {
-        "Fumo": "(Th16) A silly patch that replaces some characters with their fumo counterpart."
+        "Fumo": "(Th16) A Silly Fumo themed patch for HSIFS."
   }
 }
